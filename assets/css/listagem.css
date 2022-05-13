@@ -3,6 +3,7 @@ body{
    }
    table{
        margin-left: 600px;
+       background-color: lightgray
    }
    td{
        padding: 5px;
