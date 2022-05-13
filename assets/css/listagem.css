@@ -1,0 +1,44 @@
+body{
+    background-image: linear-gradient(to right, rgb(171, 137, 250), rgb(9, 33, 247));
+   }
+   table{
+       margin-left: 750px;
+   }
+   td{
+       padding: 5px;
+   }
+   button {
+       padding: 10px 8px;
+       width: 100px;
+       color: aliceblue;
+       background:red;
+       border: 1pxsolid #555;
+       border-radius: 5px;
+       text-align: center;
+       user-select:none;
+       cursor: pointer;  
+   }
+
+   .editi{
+    padding: 10px 8px;
+    width: 150px;
+    color: aliceblue;
+    background:rgb(25, 196, 19);
+    border: 1pxsolid #555;
+    border-radius: 5px;
+    text-align: center;
+    user-select:none;
+    cursor: pointer;  
+}
+
+.info{
+    padding: 10px 8px;
+    width: 100px;
+    color: aliceblue;
+    background:rgb(25, 196, 19);
+    border: 1pxsolid #555;
+    border-radius: 5px;
+    text-align: center;
+    user-select:none;
+    cursor: pointer;  
+}
